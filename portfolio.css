@@ -786,7 +786,7 @@ a{
 .c-icon {
     width: 90px;
     height: 90px;
-    background-image: url("/Images/letter-c.png");
+    background-image: url("/Images/c.png");
     background-size: cover; 
     z-index: 90;
     margin: auto;
