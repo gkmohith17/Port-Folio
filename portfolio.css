@@ -822,7 +822,7 @@ a{
     align-items: center; */
     width: fit-content;
     height: fit-content;
-    padding: 50px;
+    padding: 20px;
     padding-left: 20%;
     padding-right: 20%;
     background-color: rgba(255,255,255,0.1);   
@@ -898,7 +898,7 @@ h3:hover{
 @media screen and (min-width: 901px) and (max-width: 1200px) {
     .sixth-page {
         height: auto;
-        padding: 40px;
+        padding: 90px;
     }
     
     .contact-heading-sixthpage {
