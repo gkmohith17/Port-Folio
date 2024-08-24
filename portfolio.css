@@ -751,6 +751,10 @@ body{
     position: relative;
     box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.3);
     transition: 0.5s ease-in-out;
+    p{
+        margin-left: 0.4rem;
+        margin-right: 0.4rem;
+    }
 }
 
 .fivebox:hover{
